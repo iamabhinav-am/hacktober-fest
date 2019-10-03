@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int max,n;
-	cin>>max>>n;
+	cin >> max >> n;
 	long int A[max]={0};
 	int x,y,add,i,j,Max=0,sum=0;
 	for(i=0;i<n;i++)
