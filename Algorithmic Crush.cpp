@@ -19,6 +19,6 @@ int main()
 		if(Max<sum)
 		Max=sum;
 	}
-	cout<<Max;
+	cout << Max << "\n";
 	return 0;
 }
